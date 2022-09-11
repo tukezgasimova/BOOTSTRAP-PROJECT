@@ -1,0 +1,15 @@
+@import url('reset.css');
+@import url('responsive.css');
+@import url('variable.css');
+
+ul{
+    background-color: var(--purple);
+    height: 100px;
+}
+.bg{
+    background-color: red;
+
+}
+.gcgd{
+    background-color: blue;
+}
